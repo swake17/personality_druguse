@@ -1,2 +1,7 @@
 # personality_druguse
-Cluster analysis on big5 personality traits as well as supervised learning to classify personality types with high drug use risk
+PredictingDrugUse:
+Using supervised learning to predict propensity for drug abuse from big5 personality measures.
+
+
+PersonalityClustering:
+Cluster analysis on big5 personality measures.
